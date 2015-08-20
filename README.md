@@ -1,2 +1,2 @@
 # snuffles
-snuffles bot or something
+snuffles, the bot for controlling google hangout bot
